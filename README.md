@@ -1,2 +1,10 @@
-# CNN-and-FNN-
-CNN and FNN structure 
+
+CNN_main.py presents a detailed implementation of a Convolutional Neural Network tailored for image recognition tasks. This file outlines the architecture of the CNN, emphasizing its convolutional layers, pooling mechanisms, and activation functions. It serves as a standalone module, allowing users to explore, understand, and experiment with CNN structures for various image processing applications. The file is designed for researchers and practitioners seeking an in-depth understanding of CNN architectures and their application to image feature extraction.
+
+In FNN_main.py, a Feedforward Neural Network (FNN) is meticulously implemented for high-level feature processing in image recognition. This file delves into the structure of the FNN, detailing the configuration of fully connected layers, activation functions, and any regularization techniques employed. As an independent module, this file provides insights into constructing and optimizing FNN architectures, making it a valuable resource for those interested in understanding and manipulating feedforward neural networks.
+
+CNN_submission.py is a template file designed for practical use, allowing users to integrate their CNN models seamlessly into various projects or competitions. It encapsulates the trained CNN model, providing a standardized structure for making predictions on new data. Researchers and practitioners can use this file as a starting point for adapting CNNs to specific image recognition tasks, ensuring a clean and efficient integration process.
+
+Similarly, FNN_submission.py serves as a submission template specifically tailored for integrating FNN models into practical applications or competitions. This file encapsulates the trained FNN model, offering a standardized framework for making predictions on new datasets. Users can leverage this template to easily incorporate FNN architectures into their projects, promoting a seamless transition from model development to deployment.
+
+These four files collectively provide a modular and organized approach to exploring, understanding, and utilizing both CNN and FNN architectures. Researchers and practitioners can use these files as standalone resources or integrate them into larger projects, promoting flexibility and ease of use in diverse applications.
